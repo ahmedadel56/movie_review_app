@@ -42,7 +42,7 @@ gem "thruster", require: false
 
 ## CSV Import & Data Processing
 gem "smarter_csv"
-gem "activerecord-import", "~> 1.4"
+gem "activerecord-import", "~> 2.2"
 
 # Search & Sorting
 gem "ransack"
